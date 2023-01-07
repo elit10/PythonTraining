@@ -36,6 +36,13 @@ print(dizi[2:4])
 print(dizi[2:])
 print(dizi[:4])
 
+# --- Alıştırma 1---
+#dizi içindeki tüm sayıları toplayan kod
+
+
+
+# ---Alıştırma 2---
+#dizi içindeki en büyük ve en küçük sayıyı bulan kod
 x = "James"
 
 delimeter = " | "
