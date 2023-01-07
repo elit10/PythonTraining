@@ -34,6 +34,11 @@ print(int(99.9999))
 
 print(int("123"))
 
+print("Send /nudes")
+print("Send \nudes")
+
+print("\"vah vah\" dedi kadın")
+
 # ---Alıştırma 1---
 #1 den 100'e kadar olan sayıların toplamını bulan python kodu
 
